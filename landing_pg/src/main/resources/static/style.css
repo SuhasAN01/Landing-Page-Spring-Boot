@@ -1,0 +1,130 @@
+.imgg{
+    height: 300px;
+    width: 300px;
+    border: solid 2px black;
+    border-radius: 150px;
+}
+
+.name{
+    font-family: "Montserrat";
+
+}
+.coll{
+    font-family: "Montserrat";
+    color: rgb(40, 39, 39);
+    text-align: center;
+    padding-bottom: 20px;
+    background-color:  rgb(245, 243, 136);
+    font-weight: bold;
+    font-size: medium;
+}
+.col1:hover{
+    font-family: sans-serif;
+    color: blue;
+    font-size: large;
+}
+.con1{
+    background-color:  rgb(179, 212, 228);
+    box-shadow: 10px 10px 15px rgb(114, 114, 114);
+}
+.colll{
+    padding-top: 10px;
+}
+a{
+    color: inherit;
+}
+.abt{
+    font-family: "Montserrat";
+    color: rgb(40, 39, 39);
+    font-style: oblique;
+    padding-left: 80px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-right: 40px;
+}
+.con2{
+    background-color: rgb(179, 212, 228);
+    box-shadow: 10px 10px 15px rgb(114, 114, 114);
+    
+}
+.leftside{
+    padding-top: 70px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+.con3{
+    background-color: rgb(179, 212, 228);
+    box-shadow: 10px 10px 15px rgb(114, 114, 114);
+}
+.con21{
+    background-color: rgb(179, 212, 228);
+    box-shadow: 10px 10px 15px rgb(114, 114, 114);
+    
+}
+.abtme{
+    font-size: 70px;
+    font-family: "Montserrat";
+    padding-left: 70px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    opacity: 0.5;
+
+}
+.abtinfo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Montserrat";
+    margin: 10px auto;
+}
+.con4{
+    background-color: rgb(179, 212, 228);
+    box-shadow: 10px 10px 15px rgb(114, 114, 114);
+}
+.education{
+    font-size: 70px;
+    font-family: "Montserrat";
+    padding-left: 40px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    opacity: 0.5;
+}
+.eduinfo{
+    padding-top: 70px;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.pro{
+    font-family: "Montserrat";
+    text-align: center;
+    opacity: 0.5;
+    font-size: 55px;
+    padding-top: 25px;
+}
+.proinfo{
+    font-family: "Montserrat";
+    font-size: 30px;  
+}
+.achv{
+    font-size: 60px;
+    font-family: "Montserrat";
+    padding-left: 10px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    opacity: 0.5;
+}
+.achinfo{
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+
+.bar{
+    font-size: 20px;
+}
+
+.welcome{
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+}
